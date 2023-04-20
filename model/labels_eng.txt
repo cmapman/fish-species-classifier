@@ -1,0 +1,22 @@
+0 Bersch
+1 Beluga
+2 Buffalo
+3 Roach
+4 Zherekh
+5 Crucian carp
+6 Carp
+7 Redfish
+8 Bream
+9 Tench
+10 Perch
+11 Sturgeon
+12 Carp
+13 Sivermouth
+14 Herring
+15 Catfish
+16 Sterlet
+17 Taran
+18 Silvermouth
+19 Roach
+20 Pike
+21 Yazel
